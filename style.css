@@ -1,0 +1,8 @@
+body {
+    display: flex;
+}
+
+.background {
+    background-image: url(background-image.jpg);
+    background-size: cover;
+}
